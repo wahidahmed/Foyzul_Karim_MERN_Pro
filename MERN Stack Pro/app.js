@@ -42,3 +42,8 @@ console.log('all done');
 function name(params) {
    alert('hi');
 }
+
+
+function testinsg(params) {
+    alert('hi');
+ }
