@@ -36,3 +36,9 @@ const syncWithCallback=()=>{
 }
 syncWithCallback();
 console.log('all done');
+
+
+
+function name(params) {
+   alert('hi');
+}
